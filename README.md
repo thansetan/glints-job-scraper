@@ -11,7 +11,7 @@
 3. Run the following command:
 
 ```
-  python scrape.py "Job Title You Want to Scrape" -b "Browser you want to Use"
+  python scrape.py "Job title/position you want to scrape" -b "Browser you want to use"
 ```
 
 ## Note:
